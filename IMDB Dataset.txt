@@ -1,0 +1,3 @@
+## Dataset
+This project uses the [IMDB Movie Reviews Dataset](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews).  
+Please download the file (IMDB Dataset.csv) from Kaggle and place it inside:
