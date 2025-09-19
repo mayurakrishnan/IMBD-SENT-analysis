@@ -1,6 +1,5 @@
 # IMDB Sentiment Analysis
 
-Mayura krishnan
 18-09-2025  
 
 ## Project summary
@@ -14,4 +13,5 @@ Method: TF-IDF + Logistic Regression. Result: *~91% accuracy*.
 ## How to run
 1. Open the notebook in Google Colab.
 2. Upload the IMDB dataset CSV to Google Drive (path: MyDrive/sentiment/data/raw/IMDB Dataset.csv).
+
 3. Run cells top to bottom.
